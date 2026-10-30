@@ -1,0 +1,1 @@
+{"name":"sora-video-studio","version":"3.0.0","private":true,"engines":{"node":">=22"},"scripts":{"start":"node server.js","test":"node --test test/*.test.js"}}
